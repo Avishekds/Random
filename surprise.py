@@ -68,7 +68,7 @@ for row in range(6):
 
 import IPython.display as display
 from PIL import Image
-display.display(Image.open('/samreen.jpg'))
+display.display(Image.open('samreen.jpg'))
 from gtts import gTTS
 from IPython.display import Audio
 tts = gTTS('Happy birthday Samreen')
