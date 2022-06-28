@@ -64,9 +64,7 @@ for row in range(6):
             print(" ",end="")
     print()
 
-!pip install gTTS
 
-!pip install pillow
 
 import IPython.display as display
 from PIL import Image
